@@ -1,3 +1,3 @@
 # My-To-Do-APP
 
-The app is live on https://thirsty-benz-874da8.netlify.app
+The app is live on https://youthful-mccarthy-88ea95.netlify.app/
